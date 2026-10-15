@@ -15,3 +15,6 @@ coverage/
 *.csv
 !frontend/public/ejemplo_piotroski.csv
 frontend/.pnpm-store/
+
+*.egg-info/
+!frontend/public/ejemplo_fama_french.csv

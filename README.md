@@ -86,3 +86,5 @@ El conjunto de pruebas del core cubre señales configurables de Momentum, métod
 La interfaz es un laboratorio de investigación, no una recomendación de inversión. Las fuentes históricas pueden cambiar, limitar solicitudes o tener diferencias con precios ejecutables. Backtests con barras diarias no modelan impuestos, impacto de mercado, suspensiones, survivorship bias ni disponibilidad point-in-time del universo. Los resultados dependen de los símbolos, proveedor, periodo y parámetros; las métricas históricas no garantizan resultados futuros.
 
 Consulta [la guía técnica y metodológica](docs/GUIA_TECNICA.md) para fórmulas, supuestos, formatos de datos y referencias de estudio.
+
+Consulta también [el manual de usuario](docs/MANUAL_USUARIO.md) para iniciar la app, cargar datos y leer sus resultados.

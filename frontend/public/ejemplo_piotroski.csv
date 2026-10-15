@@ -1,0 +1,4 @@
+Ticker,roa_current,roa_prior,cfo_to_assets_current,long_term_debt_ratio_current,long_term_debt_ratio_prior,current_ratio_current,current_ratio_prior,shares_outstanding_current,shares_outstanding_prior,gross_margin_current,gross_margin_prior,asset_turnover_current,asset_turnover_prior
+AAA,0.12,0.08,0.14,0.18,0.24,1.90,1.55,100,100,0.43,0.39,0.92,0.84
+BBB,0.09,0.06,0.10,0.22,0.27,1.65,1.50,120,118,0.38,0.36,0.86,0.81
+CCC,0.02,0.04,0.03,0.31,0.28,1.30,1.42,90,92,0.27,0.31,0.72,0.77

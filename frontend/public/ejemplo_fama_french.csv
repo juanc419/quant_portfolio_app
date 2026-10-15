@@ -1,0 +1,5 @@
+Ticker,market_cap,book_equity,operating_profitability,asset_growth
+AAA,1000,650,0.22,0.03
+BBB,2500,1000,0.17,0.06
+CCC,7200,2100,0.13,0.10
+DDD,18000,4900,0.09,0.15
